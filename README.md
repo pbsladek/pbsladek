@@ -1,4 +1,4 @@
 - @pbsladek
-- WarnerMedia
-- Lead DevOps
+- Seekr Technologies
+- Sr. DevOps
 - LA
