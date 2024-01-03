@@ -1,4 +1,4 @@
 - @pbsladek
 - Seekr Technologies
-- Sr. DevOps
+- Manager, DevOps
 - SF
